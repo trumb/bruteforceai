@@ -456,10 +456,8 @@ See the [LICENSE.md](LICENSE.md) file for complete terms and conditions.
 
 ## 📊 Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/BruteForceAI?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/BruteForceAI?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/BruteForceAI)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/BruteForceAI)
+![GitHub stars](https://img.shields.io/github/stars/mordavid/BruteForceAI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mordavid/BruteForceAI?style=social)
 
 ---
 
