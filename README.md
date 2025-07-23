@@ -35,6 +35,11 @@ BruteForceAI is an advanced penetration testing tool that revolutionizes traditi
 
 ---
 
+🌟 Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=MorDavid/BruteForceAI&type=Date)](https://www.star-history.com/#MorDavid/BruteForceAI&Date)
+
+---
+
 ## ✨ Features
 
 ### 🔍 **Intelligent Analysis**
